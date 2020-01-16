@@ -1,6 +1,6 @@
 # DJI Onboard SDK (OSDK) 3.9
 
-###  main를 수정 (버전 3.8에서 실행했었음)
+###  flight_control의 main코드를 수정 (버전 3.8에서 실행했었음)
 
 - GPIO핀을 이용해서 초음파센서를 사용
 
